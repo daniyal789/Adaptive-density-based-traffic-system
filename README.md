@@ -1,4 +1,4 @@
-# Smart-Traffic-Light-System
+# Adaptive-density-based-traffic-system
 
 Our Smart Traffic Light System leverages technology to improve traffic outcomes by introducing a sensing network, which provides feedback to the existing network, so that it can adapt to the changing traffic density patterns and provide necessary signals to the controller in real-time.
   A robust system is able to:
